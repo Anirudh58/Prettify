@@ -33,6 +33,7 @@
             {
               posts[i].parentElement.style.display = 'none';
               posts[i].parentElement.parentElement.style.display = 'none';
+              posts[i].parentElement.parentElement.parentElement.style.display = 'none';
             }
           }
 
