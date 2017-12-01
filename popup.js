@@ -10,7 +10,16 @@
           //You can play with your DOM here or check URL against your regex
           //console.log('Tab script:');
 
-          var posts = document.getElementsByTagName("p");
+          var posts = document.querySelectorAll("p");
+          var images = document.getElementsByClassName("_4-eo");
+
+          //console.log('images', images);
+
+          for(var i=0;i<images.length;i++)
+          {
+            console.log(images[i].href)
+          }
+
           console.log(posts);
 
           keywords = keywords.split(",");
