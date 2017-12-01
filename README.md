@@ -13,8 +13,6 @@ All such posts are now hidden once the extension is used!
 
 TO DO:
 
-<ol>
-  <li> Recieve keywords as input through the extension so that any relevant post the user wants can be hidden. (eg: GOT spoilers etc..,). </li>
-
-  <li> Figure out a way to extract text from images. </li>
-</ol>
+<ul>
+  <li> Figure out a way to extract text from images so that we can learn more about what the post really means. </li>
+</ul>
